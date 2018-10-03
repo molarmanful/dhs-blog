@@ -1,0 +1,48 @@
+title: Musings on Maps
+name: Benjamin Pang
+email: benjinpang@gmail.com
+description: A blog made for my 2018 Data and Human Space class.
+url: "https://dhs.bennyboy.hosting.nyu.edu"
+baseurl: ""
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+
+breadcrumbs: true
+paginate: 10
+paginate_num: /page:num/
+include: ["_pages"]
+
+author:
+  name: Benjamin Pang
+  avatar: assets/me.jpg
+  bio: Everybody thinks I'm a comp-sci major, but I'm actually a psychology major.
+  location: NYU Abu Dhabi
+  links:
+    - label: "Personal Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://bennyboy.tech"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/molarmanful"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/molarmanful"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/gnab.neb"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
