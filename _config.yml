@@ -15,7 +15,7 @@ include: ["_pages"]
 author:
   name: Benjamin Pang
   avatar: assets/me.jpg
-  bio: Everybody thinks I'm a comp-sci major, but I'm actually a psychology major.
+  bio: I'm a psychology major, but everyone thinks I'm a compsci major.
   location: NYU Abu Dhabi
   links:
     - label: "Personal Website"

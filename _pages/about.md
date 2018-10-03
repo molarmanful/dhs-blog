@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about/
+permalink: about.html
 ---
 
 Our concepts of locations and maps have drastically changed over time with discovery of new knowledge and technologies. But such innovations have also turned maps into a powerful tool for both autocracies and democracies, oppressors and oppressed, big business and small research institutesbig business and small research institutes.
