@@ -4,7 +4,7 @@ title: About
 permalink: about.html
 ---
 
-Our concepts of locations and maps have drastically changed over time with discovery of new knowledge and technologies. But such innovations have also turned maps into a powerful tool for both autocracies and democracies, oppressors and oppressed, big business and small research institutesbig business and small research institutes.
+Our concepts of locations and maps have drastically changed over time with discovery of new knowledge and technologies. But such innovations have also turned maps into a powerful tool for both autocracies and democracies, oppressors and oppressed, big businesses and small research institutes.
 
 As members of an increasingly digitized world, we experience firsthand the impact of location technology. Now we are all trackable; smartphones, cars, even TV's can gather data about our daily lives. The digitization of locations have allowed us to navigate a massive, hectic world so much more conveniently, but at what cost? Our privacy? Our freedom?
 

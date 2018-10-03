@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2018/10/02/first-post.html</loc>
+<loc>https://dhs.bennyboy.hosting.nyu.edu/2018/10/02/first-post.html</loc>
 <lastmod>2018-10-02T00:00:00+04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/404.html</loc>
+<loc>https://dhs.bennyboy.hosting.nyu.edu/_pages/404.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>https://dhs.bennyboy.hosting.nyu.edu/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://dhs.bennyboy.hosting.nyu.edu/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/posts.html</loc>
+<loc>https://dhs.bennyboy.hosting.nyu.edu/posts.html</loc>
 </url>
 </urlset>
