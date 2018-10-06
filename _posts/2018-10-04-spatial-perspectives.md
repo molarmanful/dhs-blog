@@ -1,0 +1,15 @@
+---
+layout: single
+title: Spatial Perspectives
+date: 2018-10-04
+---
+
+When I was a middle-schooler, I came up with the idea to create miniscule trackers that I could stick onto any of my belongings and track from my phone or computer. In 2018, this idea sounds rather easy to implement. But back then, the iPhone 5 and Samsung Galaxy S3 had just been released. "4G" stood for "prohibitively expensive" and unlimited data plans were unheard of. Few app developers cared about "Location Services" and even fewer cared to integrate it into their apps. Most importantly, I didn't even have a phone to track anything with. All of these limitations forced me to put off my idea until years later, when I began attending hackathons as a high-schooler.
+
+From my entry into middle school to my graduation from high school, the little-used Location Services has gradually become a regular fixture in our digital lives; in 2016, the Pew Research Institute found that [9 out of 10 American smartphone owners used their phone for location-based information](http://www.pewresearch.org/fact-tank/2016/01/29/us-smartphone-use/). Almost all apps gather location-based data, directly or indirectly. A standard navigation app like Google Maps or Waze is able to gather real-time data about traffic, weather, hidden routes, etc. to find an optimal path from point A to point B. Other apps use location data to suggest points of interest in the area, create a [more immersive gaming experience](https://www.pokemongo.com/en-us/), or simply help with tagging photos on social media.
+
+But the near-ubiquitous gathering of location data also makes it much easier for our privacy to be breached. Location Services has given everyone access to our location, from massive corporations to small-time programming hobbyists. Unfortunately, "everyone" includes people who can abuse such data: hackers, pranksters, greedy companies. Even [vulnerabilities in GPS services](https://www.bleepingcomputer.com/news/security/-trackmageddon-vulnerabilities-discovered-in-gps-location-tracking-services/) could indirectly leak your location data to the world. Even if Location Services is turned off, websites are still able to [deduce your general location from your IP address](https://www.iplocation.net).
+
+I find it interesting that the improvement in location data collection has completely overturned the way we view privacy. There is a point in time at which each smartphone owner will have to consider whether the benefits of giving an unknown entity your location outweigh the drawbacks of giving an unknown entity your privacy. Luckily, VPNs, proxies, TOR, and other privacy-oriented technologies can mask your location and identity online.
+
+Actually... I take that back. Even the US government can [hack TOR](https://www.washingtonpost.com/world/national-security/secret-nsa-documents-show-campaign-against-tor-encrypted-network/2013/10/04/610f08b6-2d05-11e3-8ade-a1f23cda135e_story.html?utm_term=.f4a3b69f878e) and have almost singlehandedly [funded TOR too](https://surveillancevalley.com/blog/fact-checking-the-tor-projects-government-ties).
