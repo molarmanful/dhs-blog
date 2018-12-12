@@ -18,4 +18,14 @@ var store = [{
         "excerpt":"Humans are treasure troves of data. From tiny, specific bodily functions like heart rate and muscle reaction time to large, general behaviors like daily routines and crowd movements, virtually anything human can be quantified and visualized. And with the help of modern technology, collecting human data has never been easier....","categories": [],
         "tags": [],
         "url": "http://localhost:4000/2018/11/07/self-mapping.html",
+        "teaser":null},{
+        "title": "Dataset: The Ultimate NYUAD Taxi Experience",
+        "excerpt":"NYUAD is often nicknamed the “Saadiyat Bubble” by students. After all, with the amenities present on-campus – food, gym, study space – some students find little need to leave campus. And for those who leave campus, free shuttles appear punctually at scheduled times to take students to common landmarks like...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2018/12/10/dataset.html",
+        "teaser":null},{
+        "title": "Project: The Ultimate NYUAD Taxi Experience",
+        "excerpt":"This is Part 2 of my project on NYUAD students’ experiences with taxis. Part 1 can be found here. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2018/12/10/story.html",
         "teaser":null}]
