@@ -25,7 +25,7 @@ var store = [{
         "url": "http://localhost:4000/2018/12/10/dataset.html",
         "teaser":null},{
         "title": "Project: The Ultimate NYUAD Taxi Experience",
-        "excerpt":"This is Part 2 of my project on NYUAD students’ experiences with taxis. Part 1 can be found here. ","categories": [],
+        "excerpt":"This is Part 2 of my project on NYUAD students’ experiences with taxis. Part 1 can be found here. It was a warm Thursday night in Abu Dhabi. A few friends and I had decided to take a taxi to Al Wahda Mall to try out a Korean restaurant called...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/2018/12/10/story.html",
         "teaser":null}]
